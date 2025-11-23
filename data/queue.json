@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=iKmsudv3YKc",
+    "sourceType": "video",
+    "id": "72e9aabd-fa67-40f0-9193-50be411c3e56",
+    "status": "completed",
+    "createdAt": "2025-11-23T20:53:41.351Z",
+    "contentPack": {
+      "source_metadata": {
+        "topic_summary": "How to get better responses from Chat GPT using a simple \"anti-prompt\"",
+        "transcript_summary": "The video explains how to use an \"anti-prompt\" to get more thoughtful and less generic answers from Chat GPT. The anti-prompt presented is: \"Based on everything you know about me, become my AI sparring partner. When I present an idea, your first response should include three to five questions I haven't thought about, counter arguments, blind spots, or risks.\"",
+        "tool_or_feature_demoed": "Chat GPT"
+      },
+      "deconstruction": {
+        "core_idea_one_liner": "Use an \"anti-prompt\" to prime Chat GPT for more critical and nuanced responses.",
+        "hook_analysis": "The video hooks viewers by promising to reveal a simple prompt that will \"blow your mind\" and improve the quality of Chat GPT's answers.",
+        "structure_breakdown": "The video presents the problem of Chat GPT's generic answers, then introduces the concept of an \"anti-prompt\" as a solution. It provides a specific anti-prompt example and instructs viewers on how to use it. The video closes with a call to action to follow the creator.",
+        "why_this_video_works": "The video is effective because it offers a practical tip for improving Chat GPT usage, addresses a common user complaint (generic answers), and provides a concrete example. The promise of a mind-blowing, simple solution is compelling."
+      },
+      "audrey_remix": {
+        "hooks": [
+          "Stop getting played by AI. Here's how.",
+          "The one Chat GPT prompt you NEED.",
+          "Prime Chat GPT to CHALLENGE your ideas."
+        ],
+        "short_script": "Tired of Chat GPT giving you fluff? Use an anti-prompt. Tell it: \"Become my AI sparring partner. When I present an idea, your first response should include 3-5 questions I haven't thought about, plus counter arguments, blind spots, or risks.\" Boom. No more surface-level BS. Want more AI secrets? Follow me.",
+        "cta": "Steal my personal \"AI Brain Trust\" prompt pack - link in bio.",
+        "caption": "Level up your Chat GPT game with this anti-prompt trick. Stop the fluff. Get critical. 🧠 #AI #Chat GPT #PromptEngineering",
+        "thumbnail_headline": "AI Sparring Partner",
+        "b_roll_notes": "Use b-roll of someone looking frustrated with a Chat GPT response, then switching to a surprised and pleased expression after using the anti-prompt. Overlay text of the anti-prompt on screen.",
+        "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%20Sparring%20Partner",
+        "linkedin_post": "Chat GPT is only as good as your prompts. But most people treat it like a glorified search engine.\n\nWant to unlock its REAL potential? Try this:\n\nPrime it to be your \"AI Sparring Partner\".\n\nTell it to challenge your ideas, find the blind spots, and ask the hard questions you're avoiding.\n\nStop the fluff. Start thinking critically. Your business will thank you.",
+        "longer_script_version": "Let's be honest: Chat GPT can be kinda...dumb. You ask a question, and it spits out some generic, surface-level answer that anyone could find with a quick Google search. Annoying, right?\n\nHere's a fix: use an \"anti-prompt.\" This is a prompt that tells Chat GPT HOW to respond, not just WHAT to respond to. It sets the tone and primes the AI for deeper thinking.\n\nTry this one: \"Become my AI sparring partner. When I present an idea, your first response should include 3-5 questions I haven't thought about, plus counter arguments, blind spots, or risks.\" \n\nNow, when you present an idea, Chat GPT will actually CHALLENGE you. It'll force you to think critically and consider different angles. This is how you unlock REAL value from AI, not just fluffy feel-good answers.\n\nWant my personal \"AI Brain Trust\" prompt pack? It's got all my go-to prompts for turning Chat GPT into a strategic advisor. Link in bio."
+      }
+    },
+    "completedAt": "2025-11-23T20:57:58.376Z"
+  }
+]

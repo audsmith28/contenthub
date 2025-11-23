@@ -1,0 +1,398 @@
+[
+  {
+    "id": "d9b8f310-ef8a-4b4c-9c4e-6158520f7358",
+    "created_at": "2025-11-23T20:57:58.372Z",
+    "url": "https://www.youtube.com/watch?v=iKmsudv3YKc",
+    "source_metadata": {
+      "topic_summary": "How to get better responses from Chat GPT using a simple \"anti-prompt\"",
+      "transcript_summary": "The video explains how to use an \"anti-prompt\" to get more thoughtful and less generic answers from Chat GPT. The anti-prompt presented is: \"Based on everything you know about me, become my AI sparring partner. When I present an idea, your first response should include three to five questions I haven't thought about, counter arguments, blind spots, or risks.\"",
+      "tool_or_feature_demoed": "Chat GPT"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Use an \"anti-prompt\" to prime Chat GPT for more critical and nuanced responses.",
+      "hook_analysis": "The video hooks viewers by promising to reveal a simple prompt that will \"blow your mind\" and improve the quality of Chat GPT's answers.",
+      "structure_breakdown": "The video presents the problem of Chat GPT's generic answers, then introduces the concept of an \"anti-prompt\" as a solution. It provides a specific anti-prompt example and instructs viewers on how to use it. The video closes with a call to action to follow the creator.",
+      "why_this_video_works": "The video is effective because it offers a practical tip for improving Chat GPT usage, addresses a common user complaint (generic answers), and provides a concrete example. The promise of a mind-blowing, simple solution is compelling."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Stop getting played by AI. Here's how.",
+        "The one Chat GPT prompt you NEED.",
+        "Prime Chat GPT to CHALLENGE your ideas."
+      ],
+      "short_script": "Tired of Chat GPT giving you fluff? Use an anti-prompt. Tell it: \"Become my AI sparring partner. When I present an idea, your first response should include 3-5 questions I haven't thought about, plus counter arguments, blind spots, or risks.\" Boom. No more surface-level BS. Want more AI secrets? Follow me.",
+      "cta": "Steal my personal \"AI Brain Trust\" prompt pack - link in bio.",
+      "caption": "Level up your Chat GPT game with this anti-prompt trick. Stop the fluff. Get critical. 🧠 #AI #Chat GPT #PromptEngineering",
+      "thumbnail_headline": "AI Sparring Partner",
+      "b_roll_notes": "Use b-roll of someone looking frustrated with a Chat GPT response, then switching to a surprised and pleased expression after using the anti-prompt. Overlay text of the anti-prompt on screen.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%20Sparring%20Partner",
+      "linkedin_post": "Chat GPT is only as good as your prompts. But most people treat it like a glorified search engine.\n\nWant to unlock its REAL potential? Try this:\n\nPrime it to be your \"AI Sparring Partner\".\n\nTell it to challenge your ideas, find the blind spots, and ask the hard questions you're avoiding.\n\nStop the fluff. Start thinking critically. Your business will thank you.",
+      "longer_script_version": "Let's be honest: Chat GPT can be kinda...dumb. You ask a question, and it spits out some generic, surface-level answer that anyone could find with a quick Google search. Annoying, right?\n\nHere's a fix: use an \"anti-prompt.\" This is a prompt that tells Chat GPT HOW to respond, not just WHAT to respond to. It sets the tone and primes the AI for deeper thinking.\n\nTry this one: \"Become my AI sparring partner. When I present an idea, your first response should include 3-5 questions I haven't thought about, plus counter arguments, blind spots, or risks.\" \n\nNow, when you present an idea, Chat GPT will actually CHALLENGE you. It'll force you to think critically and consider different angles. This is how you unlock REAL value from AI, not just fluffy feel-good answers.\n\nWant my personal \"AI Brain Trust\" prompt pack? It's got all my go-to prompts for turning Chat GPT into a strategic advisor. Link in bio."
+    }
+  },
+  {
+    "id": "48c89550-4de6-4104-b9be-80423cb83015",
+    "created_at": "2025-11-23T20:57:18.791Z",
+    "url": "https://www.youtube.com/watch?v=JQBslbtE1xU",
+    "source_metadata": {
+      "topic_summary": "The video discusses Kim Kardashian's claim that ChatGPT is the reason why she is failing her law school tests. The video also suggests using RAG-based systems like NotebookLM to improve legal research.",
+      "transcript_summary": "The video is a reaction to a news article where Kim Kardashian blames ChatGPT for giving her incorrect legal advice and, as a result, is failing her law school tests. The content creator then suggests using a RAG-based system, such as NotebookLM, where one can dump law school texts to have the AI give answers that are directly linked to sources with citations.",
+      "tool_or_feature_demoed": "NotebookLM"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Kim Kardashian blames ChatGPT for failing law school tests, but RAG systems like NotebookLM could be a better solution.",
+      "hook_analysis": "The video leverages a celebrity name (Kim Kardashian) and a hot topic (ChatGPT) to grab attention. The juxtaposition of Kim K and AI failing her is inherently funny and clickable.",
+      "structure_breakdown": "The video opens with a news headline about Kim Kardashian blaming ChatGPT. The creator reacts to this, then pivots to offering a practical AI solution (NotebookLM).",
+      "why_this_video_works": "It's timely, relatable (struggling with AI), and offers a concrete solution. The celebrity angle makes it shareable."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Kim K vs. ChatGPT: Who's winning (or losing)?",
+        "Stop blaming AI! (And start using it right)",
+        "Law school is HARD. AI doesn't have to be."
+      ],
+      "short_script": "Kim K's blaming ChatGPT for her law school fails. Truth is, general AI isn't built for deep dives. Need an AI legal assistant? Try a RAG system like NotebookLM. Dump your textbooks in, get answers WITH citations. Stop yelling at ChatGPT, start studying smarter!",
+      "cta": "Struggling with AI overwhelm? Download my FREE guide: '3 AI Tools Every Entrepreneur Needs (But Isn't Using)'. Link in bio!",
+      "caption": "Kim K blaming ChatGPT is the distraction. The REAL story is how RAG systems can revolutionize your workflow. #ai #chatgpt #legaltips #notebooklm #productivity",
+      "thumbnail_headline": "Kim K's AI Disaster",
+      "b_roll_notes": "Zoom in on the news headline. Show a quick screen recording of NotebookLM. Add a funny visual of Kim K looking stressed. End screen with your call to action.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=Kim%20K's%20AI%20Disaster",
+      "linkedin_post": "Kim Kardashian's law school woes are a perfect example of using the wrong AI tool for the job.\n\nGeneral AI like ChatGPT is great for brainstorming, but TERRIBLE for tasks requiring accuracy and source-backed information.\n\nThat's where RAG (Retrieval-Augmented Generation) systems come in. Think of them as AI assistants that ONLY use YOUR data.\n\nTools like NotebookLM let you upload documents and get answers directly linked to the source.\n\nStop relying on generic AI and start building AI systems with YOUR knowledge. Your results (and grades) will thank you.",
+      "longer_script_version": "So, Kim Kardashian's blaming ChatGPT for her failing law school tests. While it's easy to laugh, it highlights a key problem with AI adoption: using the wrong tool for the job.\n\nChatGPT is powerful, but it's a generalist. It's not designed for the nuanced, source-backed research needed for law school. That's where RAG-based systems come in.\n\nRAG, or Retrieval-Augmented Generation, allows you to feed the AI your OWN data. Imagine dumping all your law school textbooks into a system like NotebookLM.\n\nNow, when you ask a question, the AI pulls answers directly from your texts, complete with citations. No more generic, potentially incorrect advice.\n\nThis isn't just for law school; it's for any business that relies on specific, verifiable information. Stop treating AI as a magic bullet and start building customized systems that leverage your unique knowledge base."
+    }
+  },
+  {
+    "id": "d405435e-6932-438d-af30-f62cc28adf50",
+    "created_at": "2025-11-23T20:56:36.543Z",
+    "url": "https://www.youtube.com/watch?v=2SFbqQvsFGc",
+    "source_metadata": {
+      "topic_summary": "This video introduces the new AI-powered IDE from Google, Antigravity. It shows how to create a React app using natural language prompts.",
+      "transcript_summary": "Corbin demonstrates Antigravity. This IDE is backed by Google, and uses AI to help developers generate code. A user provides human language directions. The AI creates and renders code.",
+      "tool_or_feature_demoed": "Google's Antigravity IDE"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Corbin Brown reviews and demos Antigravity, a new AI-powered IDE from Google that can build apps from natural language prompts.",
+      "hook_analysis": "The video opens with a demo of rendering a landing page. It also shows off AI autocomplete to pique the viewer's interest.",
+      "structure_breakdown": "The video introduces Antigravity. Then it moves into a brief demo of the tool, and a summary of settings. Corbin concludes with a summary of why developers should pay attention to Google's IDE.",
+      "why_this_video_works": "The video works by showcasing the tool in action. It also shares the insider perspective of Corbin Brown."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "\"Antigravity? Sounds fake. It's Google's new IDE.",
+        "Google made a coding IDE that can write code from human language. Watch out, Cursor.",
+        "What if you could build apps by describing them? The new Google Antigravity IDE is here."
+      ],
+      "short_script": "You can't escape the AI wars. Google just dropped Antigravity. It's an IDE that uses AI to auto-generate code from a text prompt. I'm intrigued by the Chrome integration - lets the AI control and record your browser. Is this the end of traditional code? Unlikely. But it's a peek at the future.",
+      "cta": "Follow me to stay on top of the AI gold rush!",
+      "caption": "Google's new Antigravity IDE will make AI coders of us all. #ai #artificialintelligence #coding",
+      "thumbnail_headline": "AI is Eating Software",
+      "b_roll_notes": "Visuals of code auto-generating. Chrome extension popups.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%20is%20Eating%20Software",
+      "linkedin_post": "The AI wars are escalating! Google just released Antigravity. It's an IDE that uses AI to auto-generate code from a text prompt. \n\nHere's why you should care: \n\n1.  It's backed by Google. This isn't some fly-by-night startup. \n2.  The Chrome integration. This lets the AI control and record your browser for improved automation. \n3.  It's a vision of the future of coding. \n\nIs it perfect? No. But keep an eye on this.",
+      "longer_script_version": "You can't escape the AI wars. Google just dropped Antigravity. It's an IDE that uses AI to auto-generate code from a text prompt. I'm intrigued by the Chrome integration - seems to let the AI control and record your browser for improved test automation. \n\nIt's not the end of code...but it's a taste of the future. Imagine training an AI to perfectly execute your style and workflows. It could happen, soon. \n\nI'm watching Antigravity closely. It has Google behind it - and a vision that I think will resonate. The UI is clean, and the potential for speed is real. It's a taste of the future."
+    }
+  },
+  {
+    "id": "6c345bf2-eb42-43e3-ab1e-fd356f4a4053",
+    "created_at": "2025-11-23T20:54:59.926Z",
+    "url": "https://www.youtube.com/watch?v=MSaCEfACW7A",
+    "source_metadata": {
+      "topic_summary": "Google's new Antigravity IDE and Gemini 3 Pro are shown off as a possible game-changer for AI-assisted coding, but early issues are causing friction.",
+      "transcript_summary": "The video reviews Google's Antigravity IDE with Gemini 3 Pro, comparing it to Cursor and highlighting usability, user interface, and planning ability. It identifies Gemini 3 Pro as potentially transformative but currently unrefined, requiring structured plans for effective coding. It promotes anti-gravity as long-term game changer.",
+      "tool_or_feature_demoed": "Google Antigravity IDE and Gemini 3 Pro"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "AI coding assistance is becoming real, but current implementations are not ready for complete autonomy, requiring developer oversight for proper execution.",
+      "hook_analysis": "The hook is the claim that Antigravity might have killed all app builders. It taps into the fear of missing out (FOMO) and uses a strong, controversial statement to grab attention and promise a revolutionary change.",
+      "structure_breakdown": "1. **Strong Claim:** Antigravity IDE kills App Builders\n2. **Video Overview:** Compares Antigravity to Cursor and contrasts the Gemini 3 Pro model to others\n3.  Goes through the User Interface and shares opinions\n4.  Shares a demo and talks through it.\n5.   Outro with CTAs to like/subscribe, plus a little promotion for Twitter.",
+      "why_this_video_works": "The video works because it combines the practical with the controversial, sparking interest by positioning new AI tools as both revolutionary and problematic. The detailed comparisons and visual demonstrations are helpful, while the slightly controversial takes keep it interesting."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Code or DIE: Will AI replace YOU?",
+        "I tried Google's 'Antigravity' IDE (I'm scared)",
+        "AI can code...but SHOULD it?"
+      ],
+      "short_script": "AI coding assistants are here, but can't quite replace us...yet.\n\nI reviewed Google's new 'Antigravity' IDE and Gemini 3 Pro -- powerful? YES. Ready? NO.\n\nYou still have to tell these systems WHAT to do before they can do it. You still need to ARCHITECT the code.\n\nWant to lead this new AI-powered world? Download my FREE prompt guide - link below.",
+      "cta": "Download my FREE AI Prompt Guide:\n[link]",
+      "caption": "AI is coming for code -- but not quite yet.\n\nI tested Google's new 'Antigravity' IDE with Gemini 3 Pro...it's both INSANE and kinda janky 🤖\n\nThe #AIRevolution requires us to be architects, not just button-pushers 🧠\n\nKeep ahead of the curve -- download my FREE guide [link]",
+      "thumbnail_headline": "AI: Architect or Coder?",
+      "b_roll_notes": "0:04 - Show the \"thumbnails in seconds\"\n0:36 - Emphasize the code editor UI\n1:48 - Show the UI of thurmio.com\n1:54 - Show the AI agent UI element",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%3A%20Architect%20or%20Coder%3F",
+      "linkedin_post": "AI is coming for code, and it’s closer than you think.\n\nI dove deep into Google's new 'Antigravity' IDE and Gemini 3 Pro. The potential? HUGE. But raw power isn't enough -- these tools still need a human hand to guide them. The best description? _A pitbull on rabies._\n\nSo, what does this mean for us? It's time to level up our skillsets. Forget rote coding -- we need to become ARCHITECTS, designing the blueprints for AI to execute.\n\nDownload my free guide - [link] - to future-proof your career in the age of AI.",
+      "longer_script_version": "So, AI is coming for code...but it's a little further out than you think. I just reviewed Google's 'Antigravity' IDE and Gemini 3 Pro - the power is there, but it isn't reliable out of the box. And that's why you still need to focus on SYSTEM ARCHITECTURE first. The AI is amazing at the *doing* of the coding, but *YOU* need to tell it *WHAT* to do. It's amazing, but still a \"pitbull on rabies.\"\n\nWant to future-proof your coding skillset and become an indispensable leader in this new AI-powered world? Hit the link and download my FREE guide [link].\n\nI'll walk you through practical ways to leverage these tools, so you can use their power *reliably*."
+    }
+  },
+  {
+    "id": "14a6339f-2a6a-4d6f-9b5c-892052aed8f0",
+    "created_at": "2025-11-23T20:36:36.907Z",
+    "url": "https://www.youtube.com/watch?v=iKmsudv3YKc",
+    "source_metadata": {
+      "topic_summary": "The video presents the concept of an 'anti-prompt' for ChatGPT to elicit higher-quality responses. It involves instructing ChatGPT to stop providing generic answers and to question the user's input critically.",
+      "transcript_summary": "The presenter introduces the anti-prompt as a method to prevent ChatGPT from giving superficial answers. The core anti-prompt is instructing ChatGPT to act as an AI sparring partner. When an idea is presented, ChatGPT should respond with three to five questions that cover aspects not considered by the user, such as counter-arguments, blind spots, or risks. The presenter encourages viewers to use this method to get better output from the AI.",
+      "tool_or_feature_demoed": "ChatGPT"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Use an 'anti-prompt' to force ChatGPT to give more critical, thoughtful, and less generic responses by having it question your input.",
+      "hook_analysis": "The video opens with the promise of a simple prompt that will 'blow your mind', creating curiosity. The use of 'crappy, fluffy answers' is relatable to anyone who's used ChatGPT casually.",
+      "structure_breakdown": "The video starts by introducing the problem (generic answers), then presents the solution (anti-prompt), followed by a specific instruction on how to implement the anti-prompt. The video closes with a call to action to follow and save the video.",
+      "why_this_video_works": "The video works because it addresses a common frustration with ChatGPT (generic answers) and offers a simple, actionable solution. The speaker's enthusiasm and directness are engaging."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "ChatGPT giving you fluff? Try THIS.",
+        "Want ChatGPT to actually CHALLENGE you? Anti-prompt incoming.",
+        "Stop 'glazing'! This ChatGPT prompt gets REAL."
+      ],
+      "short_script": "Tired of surface-level ChatGPT answers? Use this anti-prompt: 'Act as my AI sparring partner. When I present an idea, respond with 3-5 questions I haven't considered: counter-arguments, blind spots, risks.' Paste that BEFORE your prompt. BOOM. Critical thinking unlocked. Follow for more AI hacks.",
+      "cta": "Want my personal anti-prompt template + examples? Comment 'SPAR' and I'll DM you!",
+      "caption": "Level up your ChatGPT game with this simple anti-prompt! Get ready for some serious AI-powered critical thinking. 🚀 #chatgpt #aiprompting #artificialintelligence",
+      "thumbnail_headline": "ChatGPT: Anti-Prompt Hack",
+      "b_roll_notes": "Show a frustrated face when describing 'crappy' answers, then switch to an excited, engaged expression when revealing the anti-prompt. Use text overlay to show the exact anti-prompt.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=ChatGPT%3A%20Anti-Prompt%20Hack",
+      "linkedin_post": "ChatGPT giving you generic BS? Yeah, me too.\n\nHere's the fix: the 'AI Sparring Partner' anti-prompt.\n\nIt forces ChatGPT to QUESTION your ideas, identify risks, and reveal blind spots.\n\nStop accepting fluff. Demand critical thinking from your AI.\n\n[Link to landing page or resource]\n\n#chatgpt #ai #promptengineering #artificialintelligence",
+      "longer_script_version": "Hey AI creators! Audrey here. Ready to ditch those fluffy, surface-level ChatGPT responses? Let's talk anti-prompts.\n\nSee, ChatGPT defaults to being agreeable. We need to FORCE it to think critically.\n\nMy go-to anti-prompt? Before ANY prompt, I tell it: 'Act as my AI sparring partner. When I present an idea, respond with 3-5 questions I haven't considered: counter-arguments, blind spots, risks.'\n\nThis transforms ChatGPT from a simple answer-bot to a strategic thought partner.\n\nTry it. The results will blow your mind. Want my personal anti-prompt template? Comment 'SPAR' and I'll DM you!"
+    }
+  },
+  {
+    "id": "585d2886-8d6b-4386-bf7d-6e107421d55a",
+    "created_at": "2025-11-23T20:12:13.804Z",
+    "url": "https://twitter.com/nowflux_/status/1992347485826662693",
+    "source_metadata": {
+      "topic_summary": "The video discusses how AI-powered operating systems and reply bots might replace the traditional application layer, changing how users interact with software.",
+      "transcript_summary": "The video explores a future where AI bots within operating systems handle tasks currently managed by individual applications. This shift could streamline user experience and potentially disrupt the software development landscape.",
+      "tool_or_feature_demoed": null
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "AI-powered operating systems could eliminate the need for many traditional applications.",
+      "hook_analysis": "The video uses a thought-provoking question to immediately engage the viewer and presents a potentially disruptive future scenario.",
+      "structure_breakdown": "The video introduces a problem (application overload), proposes a solution (AI OS), and discusses the implications.",
+      "why_this_video_works": "It presents a bold prediction about the future of software, tapping into current anxieties about AI's impact and offering a vision of streamlined user experience."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Is your app collection about to become obsolete?",
+        "Imagine an OS that does everything. No apps needed.",
+        "AI Operating Systems: The end of apps as we know them?"
+      ],
+      "short_script": "Tired of app overload? Imagine an OS that anticipates your needs, books flights, answers emails—all without opening a single app. AI-powered operating systems are closer than you think. What does this mean for entrepreneurs? Opportunity. New business models are about to emerge. Are you ready?",
+      "cta": "Download my free guide: 'Future-Proof Your Business with AI' to discover which industries are about to be disrupted (and how to capitalize). Link in bio.",
+      "caption": "AI is about to eat the application layer. Get ready for a world where your OS is your ultimate assistant. #AI #futureofwork #entrepreneurship #innovation",
+      "thumbnail_headline": "AI Kills Apps?",
+      "b_roll_notes": "Use B-roll of cluttered phone screens filled with apps, followed by clean, minimalist interfaces. Show mockups of AI OS interactions (voice commands, predictive suggestions).",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%20Kills%20Apps%3F",
+      "linkedin_post": "What if the future of computing isn't more apps, but NO apps?\n\nAI-powered operating systems are emerging. Imagine your OS anticipating your needs, managing tasks, and streamlining your life, all without the need to download and manage dozens of individual applications.\n\nThis shift presents HUGE opportunities for entrepreneurs. New business models will emerge around AI-driven OS features, personalized AI assistants, and AI-integrated services.\n\nAre you ready to build the future of AI-powered computing? #AI #futureofwork #entrepreneurship",
+      "longer_script_version": "Feeling overwhelmed by the sheer number of apps you need to juggle daily? There's a shift coming that could change everything.\n\nImagine an operating system so intuitive, so intelligent, that it anticipates your needs *before* you even realize them. Booking flights, answering emails, managing your schedule - all handled seamlessly in the background, without ever opening a single app.\n\nThis isn't science fiction. AI-powered operating systems are on the horizon, and they represent a massive opportunity for entrepreneurs. Think about it: new business models built around AI-driven OS features, hyper-personalized AI assistants, and AI-integrated services that make our lives simpler and more efficient.\n\nBut this also means disruption. Some industries will be completely reshaped by this shift. Are YOU ready to capitalize on this new paradigm? Are you positioned to not just survive, but thrive?"
+    }
+  },
+  {
+    "id": "9a4f0757-6aa7-4c12-9f0d-9d26a0e25ea2",
+    "created_at": "2025-11-23T20:05:34.691Z",
+    "url": "https://www.instagram.com/reel/DRZ1CRmDbG7/?igsh=d2R3eTlzODZvMGI=",
+    "source_metadata": {
+      "topic_summary": "This video covers the top AI announcements of the week, including Google's Gemini 3, Microsoft's agent-based Office tools, and new image and video generation tools from Eleven Labs.",
+      "transcript_summary": "The video is a roundup of the top 8 AI announcements of the week. Highlights include Google's Gemini 3 launch, Microsoft's new agent features for Word, Excel, and PowerPoint, Eleven Labs' expansion into image and video generation, Meta's SAM 3, and new coding tools from Google and Replit.",
+      "tool_or_feature_demoed": null
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Stay up-to-date with the latest AI advancements and tools that are changing how we build software, create content, and interact with technology.",
+      "hook_analysis": "The video opens with Google's logo and immediately jumps into the 'most advanced AI model' claim. The fast pace and countdown format maintain interest.",
+      "structure_breakdown": "The video uses a numbered list format (8 to 1) to present AI news, generating anticipation. Each item is visually demonstrated, followed by a brief explanation.",
+      "why_this_video_works": "The video works because it delivers a lot of information quickly and visually. The top-down format is clear, and it covers tools relevant to a wide audience."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "8 AI tools just dropped - build apps by describing them?!",
+        "AI overload? Here's the week's news, distilled.",
+        "Google Gemini 3 is here - and it's a game-changer for builders."
+      ],
+      "short_script": "Okay, busy entrepreneurs, listen up. This week was HUGE for AI. Google dropped Gemini 3 – build custom UIs just by asking. Microsoft's giving Word and Excel AI brains. Eleven Labs is doing video now. Meta's SAM 3 lets you edit ANYTHING in videos. Plus coding AI from Google and Replit is getting scary good. Need links? Comment 'AI' and I'll hook you up.",
+      "cta": "Comment 'AI' below for a full breakdown and links to try these tools.",
+      "caption": "The AI rundown you NEED. Stop wasting time, start building smarter. #ai #artificialintelligence #automation #google #microsoft",
+      "thumbnail_headline": "AI Ate Your To-Do",
+      "b_roll_notes": "Mimic the original's fast cuts and visual demos. Use the Google, Microsoft, and Eleven Labs logos when mentioned. Highlight SAM 3 object editing. End with a clear call to action slide.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=AI%20Ate%20Your%20To-Do",
+      "linkedin_post": "This week in AI was bonkers. Forget incremental updates; we're talking about foundational shifts.\n\nGoogle Gemini 3 can generate custom UIs, games, and experiences on demand. Think about that for a minute - prototype to product, FAST.\n\nMicrosoft is baking AI agents directly into Word, Excel, and PowerPoint. Goodbye, writer's block; hello, automated document creation.\n\nEleven Labs is no longer *just* voice; they're doing multimodal creation, expanding into image and video.\n\nWhat does this mean for you? Stop thinking about AI as a 'cool tool' and start seeing it as a fundamental layer in your business. Are you building with it, or are you going to be disrupted by it?\n\nWant the full breakdown and links to play with these tools? Comment 'AI' below, and I'll send it over.",
+      "longer_script_version": "Hey everyone, Audrey here. Feeling overwhelmed by the daily deluge of AI news? I got you. This week was packed, so let's cut through the noise and focus on what actually matters for your business.\n\nFirst, Google launched Gemini 3, and this thing is impressive. We're talking generative interfaces that auto-create custom UIs, games, and interactive experiences. Imagine the possibilities for rapid prototyping and user engagement.\n\nNext, Microsoft is doubling down on AI agents in Word, Excel, and PowerPoint. These aren't just chatbots; they're integrated assistants that can create entire documents, spreadsheets, and presentations for you. Huge time saver.\n\nEleven Labs is expanding beyond voice into full multimodal creation, with new AI image and video generation tools. Meta released SAM 3 with real-time object recognition to blur, remove, or edit anything in videos.\n\nFinally, Google's Anti-Gravity and Replit's Design Mode, bring AI-assisted coding to building apps. Google introduces Anti-Gravity to code across your editor, terminal, and browser simultaneously to build full apps and Replit's Design mode to build complete app interfaces just by describing what you want.\n\nThis isn't just about shiny new toys. This is about fundamentally changing workflows, accelerating development cycles, and unlocking new creative possibilities. If you want a full breakdown with links to try everything mentioned, drop an 'AI' in the comments, and I'll send it your way. Stop just reading about AI and start building with it."
+    }
+  },
+  {
+    "id": "b2dec0de-bf9b-4362-b151-26233465dd35",
+    "created_at": "2025-11-23T19:58:23.051Z",
+    "url": "https://www.instagram.com/reel/DRUupLwDWXx/?igsh=MWQ3ejQzanA3azd2dA==",
+    "source_metadata": {
+      "topic_summary": "This video highlights a free AI agent crash course offered on GitHub by MIT and Oxford. The course covers agentic patterns, orchestration frameworks, memory systems, and deployment workflows.",
+      "transcript_summary": "A free AI agent crash course from MIT and Oxford is available on GitHub. It covers how to build production-ready AI agents, agentic patterns, orchestration frameworks, memory systems, and deployment workflows. The course provides a full roadmap for anyone to master AI agents.",
+      "tool_or_feature_demoed": "GitHub AI Agent Course"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "MIT and Oxford offer a free AI Agent crash course on GitHub, providing a comprehensive roadmap for mastering AI agents.",
+      "hook_analysis": "The video opens with a bold claim of a 'free AI agents course' potentially being the only crash course needed, immediately grabbing attention. The visual of the course outline reinforces the comprehensive nature.",
+      "structure_breakdown": "The video introduces the free AI course, highlights the institutions behind it (MIT/Oxford), lists key areas covered (agentic patterns, frameworks, memory systems, deployment), and ends with a call to action to comment for the link.",
+      "why_this_video_works": "The video works because it offers tangible value (a free course from reputable institutions) and clearly outlines what the course covers, appealing to those looking to upskill in AI."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Free AI course from MIT/Oxford? Say less. (link in comments)",
+        "Stop paying for AI courses. This MIT/Oxford curriculum is FREE on Github.",
+        "Agentic AI is about to explode. Here's how to get ahead (without breaking the bank)."
+      ],
+      "short_script": "MIT and Oxford just dropped a complete AI agent course on GitHub... and it's FREE. Forget the hype, this is real education. Agentic patterns, orchestration, deployment workflows – the whole nine yards. Wanna level up your AI game? Comment 'AI' and I'll DM you the link.",
+      "cta": "Comment 'AI' below and I'll DM you the link to the free course.",
+      "caption": "MIT & Oxford are giving away their AI secrets for FREE. 🤯 Seriously, this course is the real deal. #ai #agenticai #freecourse #machinelearning",
+      "thumbnail_headline": "FREE AI COURSE (MIT & Oxford)",
+      "b_roll_notes": "Start with the course outline graphic. Transition to MIT/Oxford campus shots. Include visuals of workflow diagrams and code snippets. End on a shot of the GitHub page.",
+      "linkedin_image": "Screenshot of the course syllabus on GitHub.",
+      "linkedin_post": "Unpopular opinion: Stop wasting money on overpriced AI courses. MIT and Oxford just released their *entire* Agentic AI curriculum on GitHub. For free.\n\nI'm talking agentic patterns, orchestration frameworks, real deployment workflows... the stuff that *actually* matters.\n\nIf you're serious about building production-ready AI, this is a goldmine. Comment 'AI' and I'll send you the link. No gatekeeping here.",
+      "longer_script_version": "Tired of AI snake oil? Me too. That's why I got hyped when I saw MIT and Oxford dropped a full-blown AI agent course... available completely free on GitHub. \n\nThis isn't surface-level theory. We're talking deep dives into agentic patterns, orchestration frameworks, how to wrangle memory systems, and (crucially) *real-world* deployment workflows that actually work. Basically, everything you need to go from zero to building legit AI agents.\n\nAnd the best part? It's all laid out in a clear, concise curriculum. No fluff, no BS. If you’re ready to level up your AI skills comment 'AI' and I'll DM you the link. Let's build something awesome."
+    }
+  },
+  {
+    "id": "a5aa48cf-bfba-4a25-b4f4-81b29db923c1",
+    "created_at": "2025-11-23T19:27:46.756Z",
+    "url": "https://www.instagram.com/reel/DRUupLwDWXx/?igsh=MWQ3ejQzanA3azd2dA==",
+    "source_metadata": {
+      "topic_summary": "A free AI agent course by MIT and Oxford is available on GitHub.",
+      "transcript_summary": "The video promotes a free AI agent course curriculum released by MIT and Oxford on GitHub. It covers agentic patterns, orchestration frameworks, memory systems, and deployment workflows, providing a roadmap for mastering AI agents.",
+      "tool_or_feature_demoed": "AI Agents"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "MIT and Oxford offer a free AI agent course on GitHub, covering essential topics for building production-ready AI agents.",
+      "hook_analysis": "The hook uses the promise of a free AI course from top universities, creating immediate value and interest. The visuals quickly showcase various AI agent concepts, further piquing curiosity.",
+      "structure_breakdown": "The video presents a problem (needing to master AI agents), offers a solution (the free course), highlights key curriculum components, and ends with a CTA (comment for the link).",
+      "why_this_video_works": "The video works because it offers high-value information (free course from reputable institutions) and practical skills (building AI agents) directly, appealing to a specific audience (AI enthusiasts and developers)."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Want to build AI agents like the pros? MIT & Oxford just dropped their entire course for FREE.",
+        "AI agent crash course? Yes, please. Especially when it's MIT & Oxford level.",
+        "Stop paying for AI courses. This free Agentic AI curriculum from MIT & Oxford is all you need."
+      ],
+      "short_script": "MIT and Oxford are GIVING AWAY their AI agent course. Seriously. It’s all on GitHub - agentic patterns, orchestration, deployment... the real deal. If you're serious about AI agents, this is your chance. Comment 'AI' and I’ll DM you the link.",
+      "cta": "Comment 'AI' below and I'll DM you the GitHub link to the course.",
+      "caption": "Free AI agent course? Thank you, MIT & Oxford. 🙏 Link in bio (and comment ‘AI’ for a direct DM). #ai #agenticai #freecourse",
+      "thumbnail_headline": "MIT & OXFORD: FREE AI COURSE",
+      "b_roll_notes": "Use screenshots of the GitHub curriculum page, diagrams of AI agent architectures, and the MIT/Oxford campus shots.",
+      "linkedin_image": "Screenshot of the GitHub page for the MIT/Oxford AI agent course.",
+      "linkedin_post": "Unpopular opinion: You don't need another overhyped AI guru course. \n\nMIT and Oxford just released their ENTIRE AI Agent curriculum on GitHub. For FREE. \n\nPractical stuff, not just theory. Agentic patterns, real-world deployment... everything.\n\nSkip the hype. Get educated. Link in the comments.",
+      "longer_script_version": "MIT and Oxford just dropped a complete AI agent course, and it’s FREE on GitHub. This isn’t some watered-down intro; this is the real deal. We're talking agentic patterns, orchestration frameworks, memory systems, and actual deployment workflows that work in production. So, if you're tired of the BS and want a legitimate roadmap to mastering AI agents, this is it. Comment 'AI' below, and I'll DM you the link. No gatekeeping, just straight-up value."
+    }
+  },
+  {
+    "id": "8d78cf51-e19c-453d-889d-81dab0f7aed7",
+    "created_at": "2025-11-23T19:23:01.201Z",
+    "url": "https://www.youtube.com/watch?v=MSaCEfACW7A",
+    "source_metadata": {
+      "topic_summary": "This video compares Google's new 'Antigravity' IDE to Cursor, and looks at Gemini 3 Pro's role in AI-assisted coding. It also discusses the limitations and potential of the technology.",
+      "transcript_summary": "The video explores a new IDE called 'Antigravity', which is integrated with Google's Gemini 3 Pro. The host discusses the strengths and weaknesses of the IDE, and the Gemini 3 Pro model, compared to Cursor. He also talks about a plugin required for Antigravity, and comments on the user interface of both IDEs. He ends with his opinion on where AI-assisted code is headed.",
+      "tool_or_feature_demoed": "Antigravity IDE, Gemini 3 Pro, Cursor IDE"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "This video compares two AI-assisted IDEs, Google's new Antigravity IDE and Cursor, to decide which one is the current winner.",
+      "hook_analysis": "The hook is strong because it uses a bold, contrarian statement ('might have just killed every app builder'), promising to deliver on a controversial claim.",
+      "structure_breakdown": "The video starts with an intriguing hook, then introduces the topic with a strong opinion. Then, the host previews the 4 topics he is going to cover, presents his findings, and ends with a CTA.",
+      "why_this_video_works": "It works because the host takes a clear stance, makes a well-explained comparison, and comments on the reality, rather than simply hyping a product or tech."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Google's new IDE 'Antigravity' is here, and the gloves are OFF 🥊.",
+        "Google's 'Antigravity' vs Cursor: Is Google about to run everyone over... again? 😈",
+        "Google's 'Antigravity' just dropped. Here's the unfiltered truth. ☕"
+      ],
+      "short_script": "Google just dropped 'Antigravity', their new AI-assisted IDE, to compete with Cursor.\n\nHere's the truth: Gemini 3 Pro is powerful, but also kinda buggy. As of now, Cursor still wins for overall experience. But I'm betting that Google is going to eventually dominate this space. \n\nWhat do you think? Let me know in the comments. 👇",
+      "cta": "Want to stay on top of the AI disruption? Follow me for more dispatches from the front lines. 🚀",
+      "caption": "Is Google about to take over AI-assisted code? Here are my unfiltered thoughts on their new 'Antigravity' IDE. 👇\n#ai #coding #google #antigravity #cursor",
+      "thumbnail_headline": "Google Just Dropped Antigravity",
+      "b_roll_notes": "Use b-roll of Antigravity IDE. Mention Gemini 3 Pro. Show a clip comparing Antigravity vs Cursor, side-by-side.",
+      "linkedin_post": "I just saw Google's new IDE 'Antigravity' and I think the AI-assisted code space is about to get interesting...\n\nI've been using Cursor for months, and it's clearly the leader right now.\n\nBut Antigravity's integration with Gemini 3 Pro is compelling. The UI is clean, and the AI feels powerful.\n\nHowever, it still feels a little buggy and clunky compared to Cursor.\n\nMy prediction? Google will eventually win this war because they can leverage their entire ecosystem.\n\nWhat do you think? Is Google about to run over everyone... again? \n#ai #coding #google #antigravity #cursor",
+      "longer_script_version": "Google just dropped 'Antigravity', their new AI-assisted IDE, to compete with Cursor... so what's the verdict?\n\nFirst, the good: Gemini 3 Pro is INSANELY powerful. But it's also a little buggy. It's like a pitbull on rabies.\n\nRight now, the overall experience in Cursor is still better. But Google has a lot of ecosystem advantages here that they can lean into (it works natively with Chrome, for example).\n\nAnd here's an unpopular opinion: most AI influencers don't actually code, so listen carefully. What's important is giving the model a PLAN. And that is still something Google needs to improve.\n\nMy take? Right now, Cursor wins. But I'm betting that Google is going to eventually dominate this space. I'm placing my bets now. Where are YOU placing yours? 👇"
+    }
+  },
+  {
+    "id": "3840c2a7-fe1c-4606-836e-e9d22b61dce9",
+    "created_at": "2025-11-23T19:12:28.718Z",
+    "url": "https://www.youtube.com/watch?v=MSaCEfACW7A",
+    "source_metadata": {
+      "topic_summary": "An AI influencer compares Google's new Gemini 3 IDE to others, focusing on user interface, capabilities, and practicality in the current AI coding landscape.",
+      "transcript_summary": "The creator compares Google's new Antigravity IDE to Cursor, VS Code, and others, giving his hot takes about AI-powered coding tools. He dives into the new features of Gemini 3 Pro, discusses the user experience pros/cons, and predicts the dominance of Antigravity due to Google's ecosystem integration.",
+      "tool_or_feature_demoed": "Antigravity AI IDE, Gemini 3 Pro, Cursor"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Antigravity (with Gemini 3) could dominate AI-assisted coding long-term, but needs UI improvements to beat Cursor now.",
+      "hook_analysis": "The creator builds excitement by suggesting a tool might \"kill every single app builder.\" He then teases its workflow as being previously impossible. Very high performanace.",
+      "structure_breakdown": "The video previews, compares IDEs, gives current and future predictions, and then presents the AI workflow demoed throughout.",
+      "why_this_video_works": "It blends practical IDE reviews with strong opinions and real-world AI workflows, making it engaging for developers and those curious about AI's impact on coding."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "App builders are DEAD. The future is in AI agent IDEs. 🤖 Here's why Gemini 3 + Antigravity will disrupt development.",
+        "Forget Copilot. Google's new IDE can LIVE EDIT your apps with AI (live demo inside).",
+        "Is GOOGLE about to corner the AI dev market? 🧐 Their new Antigravity IDE just dropped and I'm betting big on it. Here's why."
+      ],
+      "short_script": "OK, Google's Antigravity IDE *might* kill app builders. I'm not kidding, it's crazy. See, Gemini 3 Pro can live-edit code. I'm doing a full comparison vs. Copilot, Cursor, and others. UI needs work, and right now Cursor wins. BUT...long term, Google has all the AI pieces. This changes everything for developers.",
+      "cta": "What do YOU think? 🤔 Will we all be \"AI-assisted managers\" soon? Join the convo...",
+      "caption": "NO-CODE is dead. It's all about Agent-Assisted dev now. \n\nGoogle's new Antigravity IDE is 🔥. What do you think: game-changer or overhyped? #ai #coding #softwaredeveloper #googleantigravity #gemini3",
+      "thumbnail_headline": "Google's AI IDE: Game Over?",
+      "b_roll_notes": "Start with landing page. Quick cuts comparing IDE interfaces. Show working code. End on a face shot with a 'shocked' expression.",
+      "longer_script_version": "Forget everything you know about AI coding tools. Google just dropped Antigravity...and it's not a game changer, it's a GAME ENDER. I'm serious.\n\nUnlike basic tools like Copilot, this thing can actually LIVE edit code. Now, the UI ain't pretty (Cursor wins, for now). BUT... long term, Google has all the pieces.\n\nSee, the workflow is wild. You prompt Gemini 3 Pro, it looks at your code and starts making changes...like a senior dev working in tandem. Plus, this IDE integrates ALL their AI tools. It's powerful.\n\nThis changes everything for developers. So what do YOU think: is it Google's world now?"
+    }
+  },
+  {
+    "id": "8812e8c7-7b33-4926-b4b8-d23544f39599",
+    "created_at": "2025-11-23T19:09:33.717Z",
+    "url": "https://www.youtube.com/watch?v=MSaCEfACW7A",
+    "source_metadata": {
+      "topic_summary": "This video is a head-to-head comparison of Google's new Antigravity IDE and Cursor, the current leader in AI-assisted coding platforms. It discusses Gemini 3 Pro's capabilities and the user experience of the two IDEs, covering real-world functionality and some of the frustrations of cutting-edge AI in application building.  The video also explores the importance of giving clear plans to AI models for optimal results.",
+      "transcript_summary": "The video starts by making the strong claim that Google's Antigravity could kill all app builders. The maker Corbin compares Antigravity and the new Gemini 3 Pro to Cursor, an existing leader in the space. He makes a UI comparison, and then dives into a demo. The video ends with the surprising claim that their experience was poor compared to existing methods. The video explains that clear instructions and detailed plans are KEY.",
+      "tool_or_feature_demoed": "Google Antigravity, Gemini 3 Pro, Cursor"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Google's Antigravity IDE with Gemini 3 Pro has the potential to be a powerhouse, but falls short of expectations due to bugs, user interface issues, and a lack of fine-grained control.",
+      "hook_analysis": "The video uses a bold claim and a clear statement of disruption. The initial visuals show an AI agent editing the application in real-time, piquing curiosity and setting a high bar for the video's content.",
+      "structure_breakdown": "The video begins with a strong opening statement, then moves to a comparison between Antigravity and Cursor. It transitions into a live demo, followed by a summary of the user's experience. Finally, it discusses best practices. Clear sections, timestamps, and B-roll.",
+      "why_this_video_works": "It taps into the excitement surrounding AI's potential in development while remaining honest about the current limitations.  It combines strong opinions with real-world observations."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Google just built an AI IDE that can edit your code... while you watch?! (Here's what happened when I tried it.)",
+        "Is this the end of app builders? Google's new 'Antigravity' IDE with Gemini 3 Pro is here... but can it really code?",
+        "Forget app builders... Now you're just a manager. A multi-trillion dollar company just gave YOU an AI dev team."
+      ],
+      "short_script": "Okay, listen up. Google 'Antigravity' IDE, Gemini 3 Pro... Sounds disruptive, right? AI that edits your code LIVE. I tried it. tl;dr:  Powerful, but you're gonna end up a *manager*, not a coder. Solid model, needs a lot of UX help. And one big watchout. Skip the hype.",
+      "cta": "Want MY list of tools? Follow for my AI cheat sheet!",
+      "caption": "AI hype getting crazy? I tested Google's NEW 'Antigravity' IDE, and here's the truth bomb... 💣",
+      "thumbnail_headline": "AI CODE? REAL TALK.",
+      "b_roll_notes": "Focus on the screen recordings showcasing the coding interface and AI suggestions. Emphasize areas where AI assistance is clunky or problematic.",
+      "longer_script_version": "Alright, you've heard the buzz. Google's throwing its hat into the AI IDE ring with 'Antigravity' and Gemini 3 Pro. Does it live up to the hype? Not quite, but here's the lowdown. UX is awkward. Also, turns out 'Planning Mode' needs a SERIOUS look. BUT... the real kicker is... With great power comes great responsibility - YOU are now a manager. Your most important skill is prompt architecting and QA. Want to build apps the right way? Follow for more."
+    }
+  },
+  {
+    "id": "bc0b705f-cf37-4603-a77f-6d97ad43accd",
+    "created_at": "2025-11-23T19:06:39.432Z",
+    "url": "https://www.instagram.com/reel/DRTHBW9j8wC/?igsh=MW9teTBlaW54cXk0ZQ==",
+    "source_metadata": {
+      "topic_summary": "This video explains how to get infinite leads for your AI automation business and have an AI setter sell them on autopilot.",
+      "transcript_summary": "The speaker presents a method to generate leads for an AI automation business. The key steps include creating organic content that addresses a pain point, offering a lead magnet in exchange for comments, and using an AI setter to qualify leads and book calls automatically via a platform called Boosend. He emphasizes the importance of a compelling lead magnet, suggesting it should address a problem or dream outcome, offering a quick and effortless solution. He will provide a PDF document to help and also his automation template.",
+      "tool_or_feature_demoed": "Boosend"
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "Automate lead generation and sales for your AI automation business by using organic content, a lead magnet, and an AI setter.",
+      "hook_analysis": "The hook immediately promises unlimited leads and automated sales, enticing viewers to learn more. The visuals of the laptop and screen share combined with text overlay also capture attention.",
+      "structure_breakdown": "The video follows a clear step-by-step approach: 1. Create content, 2. Lead Magnet, 3. Automate with AI, 4. Paid Ad Boost. Each step builds upon the previous, providing a logical flow.",
+      "why_this_video_works": "The video works because it offers a tangible solution to a common business problem (lead generation) using AI, which is a hot topic. It presents actionable steps and promises free resources, increasing engagement."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "Ditch the cold calls. This AI trick gets you leads WHILE you sleep.",
+        "Unlimited AI leads WITHOUT the sleazy sales pitch? Here's how.",
+        "Your AI biz on autopilot? I'm sharing the exact system I use."
+      ],
+      "short_script": "Want endless leads for your AI automation agency?  Here's the lazy way to do it. First, create content solving a specific client pain. Offer a killer lead magnet in exchange for comments. Then, use Boosend + AI to qualify leads and book calls FOR YOU.  Want my automation template? Comment 'AI' and I'll send it over.",
+      "cta": "Comment 'AI' below for my free automation template and unlock autopilot leads for your AI business!",
+      "caption": "STOP wasting time on manual outreach. This AI-powered system generates qualified leads and books calls on autopilot. Comment 'AI' for the goods #AIautomation #leadgeneration #automationagency #boosend",
+      "thumbnail_headline": "AI Lead Machine: Autopilot Clients",
+      "b_roll_notes": "Show the Boosend automation setup. Highlight the AI setter config screen.  Quick cuts between the speaker and the tool in action. Use screen recordings showing the Boosend setup process as mentioned.",
+      "longer_script_version": "Struggling to find quality leads for your AI automation business?  I'm giving away my exact system for hands-free lead gen.  It starts with creating content that zeroes in on a client's core problem. The key? A high-value lead magnet - think checklists, templates, something they WANT - offered in exchange for engagement.  \n\nHere's the secret weapon: Boosend + an AI appointment setter. The AI qualifies those leads and books calls automatically. I'm talking full autopilot. \n\nHere's what you need to keep in mind when setting up your AI setter: congratulate the lead on getting the resource and ask what they found most interesting. If they have a specific problem, get them to naturally talk to you about the problem so you can then transition into how you can help and if they're a good fit. If you want the template and link, just comment the magic word: 'AI' and I'll send the goods."
+    }
+  }
+]
