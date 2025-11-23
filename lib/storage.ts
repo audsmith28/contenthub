@@ -1,7 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
-const DB_PATH = path.join(process.cwd(), 'data', 'remixes.json');
+const DATA_ROOT = process.env.DATA_DIR || (process.env.VERCEL ? '/tmp/astral-data' : path.join(process.cwd(), 'data'));
+const DB_PATH = path.join(DATA_ROOT, 'remixes.json');
 
 // Ensure data directory exists
 if (!fs.existsSync(path.dirname(DB_PATH))) {

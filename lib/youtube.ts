@@ -6,10 +6,11 @@ import { v4 as uuidv4 } from 'uuid';
 const binaryPath = path.join(process.cwd(), 'bin', 'yt-dlp');
 const ytDlpWrap = new YtDlpWrap(binaryPath);
 
-const TMP_DIR = path.join(process.cwd(), 'tmp');
+// Vercel file system is read-only except /tmp; use that when deployed.
+const TMP_DIR = process.env.TMP_DIR || (process.env.VERCEL ? '/tmp/astral-tmp' : path.join(process.cwd(), 'tmp'));
 
 if (!fs.existsSync(TMP_DIR)) {
-    fs.mkdirSync(TMP_DIR);
+    fs.mkdirSync(TMP_DIR, { recursive: true });
 }
 
 export async function downloadVideo(url: string): Promise<{ filePath: string; metadata: any }> {

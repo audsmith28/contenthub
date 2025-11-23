@@ -2,7 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import { fetchInstagramPosts } from './instagram';
 
-const CREATORS_PATH = path.join(process.cwd(), 'data', 'creators.json');
+const DATA_ROOT = process.env.DATA_DIR || (process.env.VERCEL ? '/tmp/astral-data' : path.join(process.cwd(), 'data'));
+const CREATORS_PATH = path.join(DATA_ROOT, 'creators.json');
 
 export interface Creator {
     id: string;

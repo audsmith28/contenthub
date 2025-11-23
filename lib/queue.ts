@@ -1,7 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
-const QUEUE_PATH = path.join(process.cwd(), 'data', 'queue.json');
+const DATA_ROOT = process.env.DATA_DIR || (process.env.VERCEL ? '/tmp/astral-data' : path.join(process.cwd(), 'data'));
+const QUEUE_PATH = path.join(DATA_ROOT, 'queue.json');
 
 export interface QueueItem {
     id: string;

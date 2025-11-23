@@ -11,6 +11,13 @@ import { getCreators, addCreator, removeCreator, fetchYouTubeChannelVideos, extr
 import { generate as nanoGenerate } from "@/lib/nanoBanana";
 import { addToQueue, updateQueueItem, getQueue } from "@/lib/queue"
 
+function getBaseUrl() {
+    // Prefer explicit site URL, else fall back to Vercel-provided hostname, else localhost for dev
+    if (process.env.NEXT_PUBLIC_SITE_URL) return process.env.NEXT_PUBLIC_SITE_URL;
+    if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+    return "http://localhost:3000";
+}
+
 export async function remixVideo(formData: FormData) {
     const url = formData.get("url") as string
     const style = (formData.get("style") as 'punchy' | 'explainer' | 'deepdive') || 'punchy'
@@ -54,10 +61,8 @@ export async function remixVideo(formData: FormData) {
 
         // Generate dynamic thumbnail URL
         if (data.audrey_remix?.thumbnail_headline) {
-            // Use absolute URL for the server-side generation if needed, or relative for client
-            // For now, we construct a relative URL that the client can use
             const headline = encodeURIComponent(data.audrey_remix.thumbnail_headline);
-            data.audrey_remix.linkedin_image = `http://localhost:3000/api/thumbnail?title=${headline}`;
+            data.audrey_remix.linkedin_image = `${getBaseUrl()}/api/thumbnail?title=${headline}`;
         }
 
         // Save to DB
@@ -145,7 +150,7 @@ export async function remixArticle(articleUrl: string, articleTitle: string, sty
         // Generate dynamic thumbnail URL
         if (data.audrey_remix?.thumbnail_headline) {
             const headline = encodeURIComponent(data.audrey_remix.thumbnail_headline);
-            data.audrey_remix.linkedin_image = `http://localhost:3000/api/thumbnail?title=${headline}`;
+            data.audrey_remix.linkedin_image = `${getBaseUrl()}/api/thumbnail?title=${headline}`;
         }
 
         // Save to DB
@@ -191,7 +196,7 @@ export async function regenerateLinkedInPost(
         // Generate dynamic thumbnail URL
         if (data.audrey_remix?.thumbnail_headline) {
             const headline = encodeURIComponent(data.audrey_remix.thumbnail_headline);
-            data.audrey_remix.linkedin_image = `http://localhost:3000/api/thumbnail?title=${headline}`;
+            data.audrey_remix.linkedin_image = `${getBaseUrl()}/api/thumbnail?title=${headline}`;
         }
 
         return {
