@@ -1,4 +1,4 @@
-import { SchemaType } from "@google/generative-ai";
+import { SchemaType, type ObjectSchema } from "@google/generative-ai";
 
 export const contentPackSchema = {
     type: SchemaType.OBJECT,
@@ -79,4 +79,4 @@ export const contentPackSchema = {
         },
     },
     required: ["source_metadata", "deconstruction", "audrey_remix"],
-};
+} satisfies ObjectSchema;
