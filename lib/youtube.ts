@@ -3,17 +3,66 @@ import path from 'path';
 import fs from 'fs';
 import { v4 as uuidv4 } from 'uuid';
 
-const binaryPath = path.join(process.cwd(), 'bin', 'yt-dlp');
-const ytDlpWrap = new YtDlpWrap(binaryPath);
-
 // Vercel file system is read-only except /tmp; use that when deployed.
 const TMP_DIR = process.env.TMP_DIR || (process.env.VERCEL ? '/tmp/astral-tmp' : path.join(process.cwd(), 'tmp'));
+const BIN_DIR = process.env.VERCEL ? '/tmp/bin' : path.join(process.cwd(), 'bin');
+const YT_DLP_PATH = path.join(BIN_DIR, 'yt-dlp');
 
 if (!fs.existsSync(TMP_DIR)) {
     fs.mkdirSync(TMP_DIR, { recursive: true });
 }
 
+if (!fs.existsSync(BIN_DIR)) {
+    fs.mkdirSync(BIN_DIR, { recursive: true });
+}
+
+async function ensureYtDlpBinary() {
+    if (fs.existsSync(YT_DLP_PATH)) {
+        return new YtDlpWrap(YT_DLP_PATH);
+    }
+
+    console.log('yt-dlp binary not found. Downloading...');
+
+    // Determine platform-specific binary name
+    // Vercel (Linux) -> yt-dlp_linux
+    // Mac -> yt-dlp_macos
+    // Windows -> yt-dlp.exe
+
+    let binaryName = 'yt-dlp'; // Fallback
+    if (process.env.VERCEL || process.platform === 'linux') {
+        binaryName = 'yt-dlp_linux';
+    } else if (process.platform === 'darwin') {
+        binaryName = 'yt-dlp_macos';
+    } else if (process.platform === 'win32') {
+        binaryName = 'yt-dlp.exe';
+    }
+
+    const downloadUrl = `https://github.com/yt-dlp/yt-dlp/releases/latest/download/${binaryName}`;
+    console.log(`Downloading ${binaryName} from ${downloadUrl}...`);
+
+    try {
+        const response = await fetch(downloadUrl);
+        if (!response.ok) {
+            throw new Error(`Failed to download: ${response.statusText}`);
+        }
+
+        const buffer = await response.arrayBuffer();
+        fs.writeFileSync(YT_DLP_PATH, Buffer.from(buffer));
+
+        console.log('yt-dlp binary downloaded successfully.');
+
+        // Ensure it's executable
+        fs.chmodSync(YT_DLP_PATH, '755');
+
+        return new YtDlpWrap(YT_DLP_PATH);
+    } catch (error) {
+        console.error('Failed to download yt-dlp binary:', error);
+        throw new Error('Failed to initialize yt-dlp');
+    }
+}
+
 export async function downloadVideo(url: string): Promise<{ filePath: string; metadata: any }> {
+    const ytDlpWrap = await ensureYtDlpBinary();
     const videoId = uuidv4();
     const filePath = path.join(TMP_DIR, `${videoId}.mp4`);
 

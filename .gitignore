@@ -30,8 +30,17 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+# local env files
+.env*.local
+
+# binaries
+bin/yt-dlp
+
 # env files (can opt-in for committing if needed)
 .env*
+
+# temporary files
+tmp/
 
 # vercel
 .vercel
