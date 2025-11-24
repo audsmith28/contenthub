@@ -85,9 +85,10 @@ export async function downloadVideo(url: string): Promise<{ filePath: string; me
 
         console.log('Download complete.');
         return { filePath, metadata };
-    } catch (error) {
+    } catch (error: any) {
         console.error('Error downloading video:', error);
-        throw new Error('Failed to download video');
+        // Propagate the actual error message so the UI can show it
+        throw new Error(error.message || 'Failed to download video');
     }
 }
 
