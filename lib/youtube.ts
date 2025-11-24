@@ -81,9 +81,9 @@ export async function downloadVideo(url: string): Promise<{ filePath: string; me
             '-S', 'res:720',
             '-o', filePath,
             '--force-overwrites',
-            // Stronger anti-bot measures for cloud IPs
-            '--user-agent', 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1',
-            '--extractor-args', 'youtube:player_client=ios;player_skip=webpage,configs,js',
+            // Attempt to masquerade as a Smart TV (often less strictly rate-limited)
+            '--user-agent', 'Mozilla/5.0 (SmartHub; SMART-TV; U; Linux/SmartTV) AppleWebKit/531.2+ (KHTML, like Gecko) WebBrowser/1.0 SmartHub',
+            '--extractor-args', 'youtube:player_client=tv',
             '--no-check-certificates',
             '--prefer-free-formats'
         ]);
