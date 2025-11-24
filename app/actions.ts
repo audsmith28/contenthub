@@ -11,6 +11,9 @@ import { getCreators, addCreator, removeCreator, fetchYouTubeChannelVideos, extr
 import { generate as nanoGenerate } from "@/lib/nanoBanana";
 import { addToQueue, updateQueueItem, getQueue } from "@/lib/queue"
 
+// Allow up to 60 seconds for the server action to complete (Vercel Hobby limit)
+export const maxDuration = 60;
+
 function getBaseUrl() {
     // Prefer explicit site URL, else fall back to Vercel-provided hostname, else localhost for dev
     if (process.env.NEXT_PUBLIC_SITE_URL) return process.env.NEXT_PUBLIC_SITE_URL;

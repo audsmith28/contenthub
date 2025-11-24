@@ -1,5 +1,56 @@
 [
   {
+    "id": "1f7d122a-c4d7-4d4c-9858-12b3618c12fc",
+    "created_at": "2025-11-24T00:20:17.454Z",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "source_metadata": {
+      "topic_summary": "The video is the official music video for Rick Astley's 1987 hit song \"Never Gonna Give You Up,\" which became a viral internet meme known as \"Rickrolling.\" The video features Astley singing and dancing in various locations, interspersed with scenes of other dancers and a bartender.",
+      "transcript_summary": "The song is about unwavering love and commitment. Rick Astley sings about never giving someone up, never letting them down, never running around and deserting them, never making them cry, never saying goodbye, and never telling a lie or hurting them. He emphasizes that they've known each other for a long time and that he wants to express his feelings and make the other person understand his dedication.",
+      "tool_or_feature_demoed": null
+    },
+    "deconstruction": {
+      "core_idea_one_liner": "The music video for \"Never Gonna Give You Up\" is a cultural touchstone, iconic for its catchy tune and its central role in the \"Rickrolling\" meme.",
+      "hook_analysis": "The video's hook is its immediate recognizability and the nostalgic effect of its 80s aesthetic. The quick cuts between Astley's performance, dancers, and various urban environments create a fast-paced visual experience.",
+      "structure_breakdown": "The video follows a simple song-and-dance structure with no real narrative. It showcases Astley singing directly to the camera, intercut with other visuals. Key elements include the lighting, the 80s fashion, and the distinct settings.",
+      "why_this_video_works": "The video works because of its inherent simplicity and sincerity combined with its catchy nature. It's easy to watch, it's memorable, and it has a unique cultural significance due to the meme.  Also, that sax solo."
+    },
+    "audrey_remix": {
+      "hooks": [
+        "The best content marketing hack comes from the 80's. Seriously.",
+        "Rickrolling isn't just a meme - it's a masterclass in attention.",
+        "Steal this from Rick Astley for your next campaign."
+      ],
+      "hook_variants": {
+        "pattern_interrupt": "Stop focusing on new AI tools, look at an 80's video for content inspo.",
+        "curiosity_gap": "The secret to a winning campaign? Rick Astley held it 40 years ago.",
+        "social_proof": "Millions were Rickrolled, but they missed the real point..."
+      },
+      "thumbnail_variants": {
+        "benefit_focused": "Content Gold: 80s Video!",
+        "curiosity_focused": "Astley's Secret Weapon",
+        "authority_focused": "I'm Rickrolling Your Content"
+      },
+      "cta_variants": {
+        "direct_action": "Download the 80s Playbook",
+        "engagement_focused": "Drop a '🔥' if you got Rickrolled"
+      },
+      "short_script": "Think Rickrolling's just a meme? Think again. It's a lesson in hooking attention and relentless delivery. I'm Audrey, and I'm Rickrolling your content. The core: simplicity, memorable content, and a pattern interrupt. Download the 80s Playbook - and never give *your* audience up.",
+      "cta": "Download the 80s Playbook and learn to hook, hold, and relentlessly deliver value.",
+      "caption": "Unlock the 80s content secret: simplicity, stickiness, and a good, clean pattern interrupt.",
+      "thumbnail_headline": "Get Rickrolled: The Good Kind",
+      "b_roll_notes": "- Open on Rick Astley’s face, then cut to relevant ‘modern’ examples.\n- Use text overlays highlighting key points (simplicity, memorability, pattern interrupt).\n- End with a final shot of Rick Astley and CTA overlay.",
+      "linkedin_image": "http://localhost:3000/api/thumbnail?title=Get%20Rickrolled%3A%20The%20Good%20Kind",
+      "linkedin_post": "Want to grab attention and keep it? Look to an unlikely source: Rick Astley's 'Never Gonna Give You Up.'\n\nRickrolling isn't just a meme; it's a lesson in content:\n\n*   Simplicity: The video is straightforward, no complicated narrative.\n*   Memorability: The song is catchy, hard to forget.\n*   Pattern Interrupt: The sudden switch from something expected to *that* video.\n\nYour takeaway? Simplicity, memorability, and relentless delivery are the keys to content that sticks. Download the 80s Playbook for more!",
+      "performance_tags": {
+        "content_type": "Hot Take",
+        "emotional_trigger": "Surprise",
+        "topic_cluster": "AI Business",
+        "complexity_level": "Beginner"
+      },
+      "performance_hypothesis": "This content should perform well due to the element of surprise, connecting a modern topic with a beloved pop culture icon. The controversial approach (pattern interrupt) coupled with a valuable takeaway (content strategies) can drive traffic."
+    }
+  },
+  {
     "id": "d9b8f310-ef8a-4b4c-9c4e-6158520f7358",
     "created_at": "2025-11-23T20:57:58.372Z",
     "url": "https://www.youtube.com/watch?v=iKmsudv3YKc",
