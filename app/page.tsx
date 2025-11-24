@@ -41,8 +41,18 @@ export default function Home() {
       formData.append("url", url)
       formData.append("style", style)
       formData.append("model", generationModel)
-      const response = await remixVideo(formData)
-      setResult(response)
+
+      try {
+        const response = await remixVideo(formData)
+        if (response.error) {
+          toast.error(response.error)
+        } else {
+          setResult(response)
+          toast.success("Remix complete!")
+        }
+      } catch (err) {
+        toast.error("An unexpected error occurred")
+      }
     })
   }
 
