@@ -69,6 +69,11 @@ export async function downloadVideo(url: string): Promise<{ filePath: string; me
     console.log(`Downloading video from ${url} to ${filePath}...`);
 
     try {
+        // Write cookies to file if env var is present
+        if (process.env.YOUTUBE_COOKIES) {
+            fs.writeFileSync('/tmp/cookies.txt', process.env.YOUTUBE_COOKIES);
+        }
+
         // Get metadata first
         const metadata = await ytDlpWrap.getVideoInfo(url);
 
@@ -81,9 +86,11 @@ export async function downloadVideo(url: string): Promise<{ filePath: string; me
             '-S', 'res:720',
             '-o', filePath,
             '--force-overwrites',
-            // Attempt to masquerade as a Smart TV (often less strictly rate-limited)
-            '--user-agent', 'Mozilla/5.0 (SmartHub; SMART-TV; U; Linux/SmartTV) AppleWebKit/531.2+ (KHTML, like Gecko) WebBrowser/1.0 SmartHub',
-            '--extractor-args', 'youtube:player_client=tv',
+            // Use cookies if available (best way to bypass bot detection)
+            ...(process.env.YOUTUBE_COOKIES ? ['--cookies', '/tmp/cookies.txt'] : []),
+            // Fallback anti-bot measures
+            '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            '--extractor-args', 'youtube:player_client=android',
             '--no-check-certificates',
             '--prefer-free-formats'
         ]);
