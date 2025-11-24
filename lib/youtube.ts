@@ -80,7 +80,11 @@ export async function downloadVideo(url: string): Promise<{ filePath: string; me
             '-f', 'best[ext=mp4]/best',
             '-S', 'res:720',
             '-o', filePath,
-            '--force-overwrites'
+            '--force-overwrites',
+            // Anti-bot measures
+            '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            '--referer', 'https://www.youtube.com/',
+            '--extractor-args', 'youtube:player_client=android'
         ]);
 
         console.log('Download complete.');
